@@ -1,3 +1,5 @@
+Perguntas do enunciado:
+
 Existem outras entidades além dessas três?
 Sim, exemplos seriam os funcionários, as matérias individuais, as salas, etc.
 
